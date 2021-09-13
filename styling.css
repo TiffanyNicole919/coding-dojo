@@ -1,0 +1,22 @@
+div.unique {
+color: white;
+margin: 20px;
+font-size: 50px;
+}
+
+#divone {
+background-color: black;
+color:turquoise
+}
+#divtwo {
+background-color: rebeccapurple;
+text-align: center;
+font-size: 40px;
+}
+#divthree {
+background-color: lightblue;
+color: darkblue;
+text-align: right;
+text-decoration: underline;
+font-size: 30px;
+}
