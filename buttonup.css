@@ -1,0 +1,41 @@
+button {
+	font-size: 20px;
+	margin: 20px;
+}
+
+#container {
+	text-align: center
+}
+
+#btntwo {
+	display: block;
+	margin: auto;
+	
+}
+
+#btnthree {
+	position: fixed;
+	left: 50%;
+	right: 50%;
+}
+#btnone {
+	background-color: whitesmoke;
+	color: turquoise;
+	border-radius: 20px;
+	border:turquoise;
+	width: 200px;
+}
+
+#btntwo {
+	border-radius: 100%;
+	color: white;
+	background-color: turquoise;
+	border: transparent;
+	
+}
+
+#btnthree {
+	background-color: blue;
+	color: white;
+	width: 200px;
+}
